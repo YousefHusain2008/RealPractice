@@ -10,6 +10,8 @@ using std::cin;
 // set max number of slots
 const short MAX_INV = 66666;
 
+void saved(){}
+
 int main()
 {
 	logm("This is the beginning of the testGithub cpp file!");
