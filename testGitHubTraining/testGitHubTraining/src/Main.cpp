@@ -10,7 +10,8 @@ using std::cin;
 // set max number of slots
 const short MAX_INV = 66666;
 
-void saved(){}
+void load() {}
+void saved() {}
 
 int main()
 {
