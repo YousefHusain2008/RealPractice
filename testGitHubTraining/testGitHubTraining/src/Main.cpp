@@ -8,7 +8,7 @@ using std::cout;
 using std::cin;
 
 // set max number of slots
-const short MAX_INV = 60000;
+const short MAX_INV = 66666;
 
 int main()
 {
