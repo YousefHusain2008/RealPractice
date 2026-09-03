@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="testGitHubTraining/testGitHubTraining.vcxproj" />
+  <Project Path="testGitHubTraining/testGitHubTraining.vcxproj" Id="b121371a-0d8e-4863-bec8-cc6222158922" />
 </Solution>
